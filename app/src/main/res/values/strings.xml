@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="information_input_field_text_1">Поле ввода информации 1</string>
+    <string name="information_input_field_text_2">Поле ввода информации 2</string>
+    <string name="save_data_text">Сохранить данные</string>
+    <string name="delete_data_text">Удалить данные</string>
+    <string name="Information_output_text">Вывод информации</string>
+</resources>
